@@ -28,7 +28,7 @@ Leverage machine learning to accelerate the discovery of high-performance superc
 🔗 **Open in Colab:**  
 [Click here to run the notebook in Colab](https://colab.research.google.com/github/YourUsername/YourRepoName/blob/main/Supercapacitor_ML_Model.ipynb)
 
-✍️ This work was done as part of a Summer Research Internship under the guidance of **Dr. Arti Hadap**. A research paper based on this project is currently in progress and will be shared soon.
+✍️ This work was done as part of a Summer Research Internship under the guidance of **Dr. Arti Hadap**. 
 
 ---
 
